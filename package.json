@@ -1,0 +1,17 @@
+{
+    "buildNpmdoc":"cordova-plugin-globalization",
+    "devDependencies": {
+        "cordova-plugin-globalization": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "name":"npmdoc-cordova-plugin-globalization",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-cordova-plugin-globalization"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh"
+    },
+    "version": "0.0.1"
+}
