@@ -1,5 +1,5 @@
-<svg height="2238" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="2238" fill="#555" width="720"></rect>
+<svg height="2222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2222" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 <tspan x="10" y="42">&gt; npmdoc-cordova-plugin-globalization@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-cordova-p\</tspan>
@@ -7,7 +7,7 @@
 <tspan x="10" y="74">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="90"></tspan>
 <tspan x="10" y="106"></tspan>
-<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2017-04-06T16:53:08Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2017-04-06T16:54:39Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="138">cordova-plugin-globalization</tspan>
 <tspan x="10" y="154"></tspan>
 <tspan x="10" y="170"></tspan>
@@ -15,129 +15,128 @@
 <tspan x="10" y="202">c-cordova-plugin-globalization/test.js</tspan>
 <tspan x="10" y="218">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
 <tspan x="10" y="234">-report.json to test-report</tspan>
-<tspan x="10" y="250">&gt; server listening on http-port 52986</tspan>
+<tspan x="10" y="250">&gt; server listening on http-port 41385</tspan>
 <tspan x="10" y="266">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/bui\</tspan>
 <tspan x="10" y="282">ld/apidoc.html</tspan>
 <tspan x="10" y="298"></tspan>
 <tspan x="10" y="314"></tspan>
 <tspan x="10" y="330">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-g\</tspan>
-<tspan x="10" y="346">lobalization/tmp/electron.15b442f1b170.c980c4959e3b5.html</tspan>
+<tspan x="10" y="346">lobalization/tmp/electron.15b44307d560.51b64456a784a.html</tspan>
 <tspan x="10" y="362"></tspan>
 <tspan x="10" y="378">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="394">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="410">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="426"></tspan>
 <tspan x="10" y="442">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-g\</tspan>
-<tspan x="10" y="458">lobalization/tmp/electron.15b442f1b450.fcd412dd40d1.html</tspan>
+<tspan x="10" y="458">lobalization/tmp/electron.15b44307d7d0.ba9509d1ada72.html</tspan>
 <tspan x="10" y="474"></tspan>
 <tspan x="10" y="490">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="506">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="522">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
-<tspan x="10" y="538">-report.json to test-report</tspan>
-<tspan x="10" y="554">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="570">[4990:0406/165310:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="586">[4990:0406/165310:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="602">[5020:0406/165310:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="618">in process gpu-process. </tspan>
-<tspan x="10" y="634">[4990:0406/165310:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="650">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
-<tspan x="10" y="666">-report.json to test-report</tspan>
-<tspan x="10" y="682">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="698">&gt; server listening on http-port 54756</tspan>
-<tspan x="10" y="714">[4994:0406/165310:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="730">[4994:0406/165310:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="746">[5051:0406/165310:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="762">in process gpu-process. </tspan>
-<tspan x="10" y="778">[4994:0406/165310:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="794"></tspan>
-<tspan x="10" y="810">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/\</tspan>
-<tspan x="10" y="826">build/apidoc.html</tspan>
+<tspan x="10" y="522">&gt; server listening on http-port 46596</tspan>
+<tspan x="10" y="538">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
+<tspan x="10" y="554">-report.json to test-report</tspan>
+<tspan x="10" y="570">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
+<tspan x="10" y="586">-report.json to test-report</tspan>
+<tspan x="10" y="602">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="618">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="634">[6686:0406/165440:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="650">[6686:0406/165440:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="666">[6685:0406/165440:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="682">[6685:0406/165440:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="698">[6738:0406/165440:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="714">in process gpu-process. </tspan>
+<tspan x="10" y="730">[6734:0406/165441:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="746">in process gpu-process. </tspan>
+<tspan x="10" y="762">[6686:0406/165441:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="778"></tspan>
+<tspan x="10" y="794">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/\</tspan>
+<tspan x="10" y="810">build/apidoc.html</tspan>
+<tspan x="10" y="826"></tspan>
 <tspan x="10" y="842"></tspan>
-<tspan x="10" y="858"></tspan>
-<tspan x="10" y="874">browserTest - opened url http://127.0.0.1:52986?modeTest=1</tspan>
-<tspan x="10" y="890"></tspan>
-<tspan x="10" y="906">[4994:0406/165312:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
-<tspan x="10" y="922">|</tspan>
-<tspan x="10" y="938">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="858">browserTest - opened url http://127.0.0.1:41385?modeTest=1</tspan>
+<tspan x="10" y="874"></tspan>
+<tspan x="10" y="890">[6686:0406/165442:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="906">|</tspan>
+<tspan x="10" y="922">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="938">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="954">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="970">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="986">All files |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="1002">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1018">", source: file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/electro\</tspan>
-<tspan x="10" y="1034">n.15b442f1b450.fcd412dd40d1.html (250)</tspan>
-<tspan x="10" y="1050">[4994:0406/165312:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1066">l", source: file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/electr\</tspan>
-<tspan x="10" y="1082">on.15b442f1b450.fcd412dd40d1.html (250)</tspan>
-<tspan x="10" y="1098">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
-<tspan x="10" y="1114"></tspan>
-<tspan x="10" y="1130">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
-<tspan x="10" y="1146">globalization/tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-n\</tspan>
-<tspan x="10" y="1162">pmdoc-cordova-plugin-globalization_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
-<tspan x="10" y="1178"></tspan>
-<tspan x="10" y="1194">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
-<tspan x="10" y="1210">globalization/tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-n\</tspan>
-<tspan x="10" y="1226">pmdoc-cordova-plugin-globalization_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
-<tspan x="10" y="1242"></tspan>
-<tspan x="10" y="1258">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/t\</tspan>
-<tspan x="10" y="1274">mp/build/apidoc.html</tspan>
-<tspan x="10" y="1290"></tspan>
-<tspan x="10" y="1306">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="1322"></tspan>
-<tspan x="10" y="1338">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
-<tspan x="10" y="1354">globalization/tmp/build/screenCapture.npmTest.browser..png</tspan>
-<tspan x="10" y="1370"></tspan>
-<tspan x="10" y="1386">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
-<tspan x="10" y="1402">globalization/tmp/build/screenCapture.npmTest.browser..html</tspan>
-<tspan x="10" y="1418"></tspan>
-<tspan x="10" y="1434">browserTest - exit-code 0 - http://127.0.0.1:52986?modeTest=1</tspan>
+<tspan x="10" y="970">All files |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="986">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1002">", source: file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/electro\</tspan>
+<tspan x="10" y="1018">n.15b44307d7d0.ba9509d1ada72.html (250)</tspan>
+<tspan x="10" y="1034">[6686:0406/165442:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1050">l", source: file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/electr\</tspan>
+<tspan x="10" y="1066">on.15b44307d7d0.ba9509d1ada72.html (250)</tspan>
+<tspan x="10" y="1082">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1114">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
+<tspan x="10" y="1130">globalization/tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-n\</tspan>
+<tspan x="10" y="1146">pmdoc-cordova-plugin-globalization_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
+<tspan x="10" y="1162"></tspan>
+<tspan x="10" y="1178">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
+<tspan x="10" y="1194">globalization/tmp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-n\</tspan>
+<tspan x="10" y="1210">pmdoc-cordova-plugin-globalization_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="1226"></tspan>
+<tspan x="10" y="1242">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/t\</tspan>
+<tspan x="10" y="1258">mp/build/apidoc.html</tspan>
+<tspan x="10" y="1274"></tspan>
+<tspan x="10" y="1290">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1306"></tspan>
+<tspan x="10" y="1322">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
+<tspan x="10" y="1338">globalization/tmp/build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="1354"></tspan>
+<tspan x="10" y="1370">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-\</tspan>
+<tspan x="10" y="1386">globalization/tmp/build/screenCapture.npmTest.browser..html</tspan>
+<tspan x="10" y="1402"></tspan>
+<tspan x="10" y="1418">browserTest - exit-code 0 - http://127.0.0.1:41385?modeTest=1</tspan>
+<tspan x="10" y="1434"></tspan>
 <tspan x="10" y="1450"></tspan>
-<tspan x="10" y="1466"></tspan>
-<tspan x="10" y="1482">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globaliz\</tspan>
-<tspan x="10" y="1498">ation/tmp/coverage.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1466">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globaliz\</tspan>
+<tspan x="10" y="1482">ation/tmp/coverage.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1498"></tspan>
 <tspan x="10" y="1514"></tspan>
-<tspan x="10" y="1530"></tspan>
-<tspan x="10" y="1546">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-glob\</tspan>
-<tspan x="10" y="1562">alization/tmp/test-report.npmTest.browser.%2F.json</tspan>
-<tspan x="10" y="1578"></tspan>
-<tspan x="10" y="1594">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
-<tspan x="10" y="1610">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
-<tspan x="10" y="1626">-|</tspan>
-<tspan x="10" y="1642">File                                             |   % Stmts |% Branches |   % Funcs |   % Lines\</tspan>
-<tspan x="10" y="1658"> |</tspan>
-<tspan x="10" y="1674">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
-<tspan x="10" y="1690">-|</tspan>
-<tspan x="10" y="1706">   node-npmdoc-cordova-plugin-globalization/     |       100 |       100 |       100 |       100\</tspan>
-<tspan x="10" y="1722"> |</tspan>
-<tspan x="10" y="1738">      example.js                                 |       100 |       100 |       100 |       100\</tspan>
-<tspan x="10" y="1754"> |</tspan>
-<tspan x="10" y="1770">      lib.npmdoc_cordova_plugin_globalization.js |       100 |       100 |       100 |       100\</tspan>
-<tspan x="10" y="1786"> |</tspan>
-<tspan x="10" y="1802">      test.js                                    |       100 |       100 |       100 |       100\</tspan>
-<tspan x="10" y="1818"> |</tspan>
-<tspan x="10" y="1834">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
-<tspan x="10" y="1850">-|</tspan>
-<tspan x="10" y="1866">All files                                        |       100 |       100 |       100 |       100\</tspan>
-<tspan x="10" y="1882"> |</tspan>
-<tspan x="10" y="1898">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
-<tspan x="10" y="1914">-|</tspan>
-<tspan x="10" y="1930"></tspan>
-<tspan x="10" y="1946">created coverage file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/b\</tspan>
-<tspan x="10" y="1962">uild/coverage.html/index.html</tspan>
-<tspan x="10" y="1978">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
-<tspan x="10" y="1994">-report.json to test-report</tspan>
-<tspan x="10" y="2010"></tspan>
-<tspan x="10" y="2026">-------------------------------------------------------</tspan>
-<tspan x="10" y="2042">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-06T16:52:48.821Z</tspan>
-<tspan x="10" y="2058">|   36068 ms            0 failed        6 passed      |</tspan>
-<tspan x="10" y="2074">-------------------------------------------------------</tspan>
-<tspan x="10" y="2090"></tspan>
-<tspan x="10" y="2106">created test-report file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tm\</tspan>
-<tspan x="10" y="2122">p/build/test-report.html</tspan>
+<tspan x="10" y="1530">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-cordova-plugin-glob\</tspan>
+<tspan x="10" y="1546">alization/tmp/test-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1562"></tspan>
+<tspan x="10" y="1578">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="1594">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
+<tspan x="10" y="1610">-|</tspan>
+<tspan x="10" y="1626">File                                             |   % Stmts |% Branches |   % Funcs |   % Lines\</tspan>
+<tspan x="10" y="1642"> |</tspan>
+<tspan x="10" y="1658">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
+<tspan x="10" y="1674">-|</tspan>
+<tspan x="10" y="1690">   node-npmdoc-cordova-plugin-globalization/     |       100 |       100 |       100 |       100\</tspan>
+<tspan x="10" y="1706"> |</tspan>
+<tspan x="10" y="1722">      example.js                                 |       100 |       100 |       100 |       100\</tspan>
+<tspan x="10" y="1738"> |</tspan>
+<tspan x="10" y="1754">      lib.npmdoc_cordova_plugin_globalization.js |       100 |       100 |       100 |       100\</tspan>
+<tspan x="10" y="1770"> |</tspan>
+<tspan x="10" y="1786">      test.js                                    |       100 |       100 |       100 |       100\</tspan>
+<tspan x="10" y="1802"> |</tspan>
+<tspan x="10" y="1818">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
+<tspan x="10" y="1834">-|</tspan>
+<tspan x="10" y="1850">All files                                        |       100 |       100 |       100 |       100\</tspan>
+<tspan x="10" y="1866"> |</tspan>
+<tspan x="10" y="1882">-------------------------------------------------|-----------|-----------|-----------|----------\</tspan>
+<tspan x="10" y="1898">-|</tspan>
+<tspan x="10" y="1914"></tspan>
+<tspan x="10" y="1930">created coverage file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/b\</tspan>
+<tspan x="10" y="1946">uild/coverage.html/index.html</tspan>
+<tspan x="10" y="1962">merging file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tmp/build/test\</tspan>
+<tspan x="10" y="1978">-report.json to test-report</tspan>
+<tspan x="10" y="1994"></tspan>
+<tspan x="10" y="2010">-------------------------------------------------------</tspan>
+<tspan x="10" y="2026">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-06T16:54:00.860Z</tspan>
+<tspan x="10" y="2042">|   54156 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="2058">-------------------------------------------------------</tspan>
+<tspan x="10" y="2074"></tspan>
+<tspan x="10" y="2090">created test-report file:///home/travis/build/npmdoc/node-npmdoc-cordova-plugin-globalization/tm\</tspan>
+<tspan x="10" y="2106">p/build/test-report.html</tspan>
+<tspan x="10" y="2122"></tspan>
 <tspan x="10" y="2138"></tspan>
-<tspan x="10" y="2154"></tspan>
-<tspan x="10" y="2170">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="2154">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="2170"></tspan>
 <tspan x="10" y="2186"></tspan>
-<tspan x="10" y="2202"></tspan>
-<tspan x="10" y="2218">[MODE_BUILD=npmTest] - 2017-04-06T16:53:27Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2202">[MODE_BUILD=npmTest] - 2017-04-06T16:54:58Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
