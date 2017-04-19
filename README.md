@@ -1,9 +1,14 @@
-# api documentation for  [cordova-plugin-globalization (v1.0.6)](https://github.com/apache/cordova-plugin-globalization#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-globalization.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-globalization) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-globalization.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-globalization)
+# npmdoc-cordova-plugin-globalization
+
+#### api documentation for  [cordova-plugin-globalization (v1.0.6)](https://github.com/apache/cordova-plugin-globalization#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-globalization.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-globalization) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-globalization.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-globalization)
+
 #### Cordova Globalization Plugin
 
-[![NPM](https://nodei.co/npm/cordova-plugin-globalization.png?downloads=true)](https://www.npmjs.com/package/cordova-plugin-globalization)
+[![NPM](https://nodei.co/npm/cordova-plugin-globalization.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-globalization)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-cordova-plugin-globalization_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-cordova-plugin-globalization/build/screenCapture.npmPackageListing.svg)
 
@@ -73,33 +78,26 @@
     "license": "Apache-2.0",
     "maintainers": [
         {
-            "name": "bowserj",
-            "email": "bowserj@apache.org"
+            "name": "bowserj"
         },
         {
-            "name": "csantanapr",
-            "email": "csantana23@gmail.com"
+            "name": "csantanapr"
         },
         {
-            "name": "filmaj",
-            "email": "maj.fil@gmail.com"
+            "name": "filmaj"
         },
         {
-            "name": "purplecabbage",
-            "email": "purplecabbage@gmail.com"
+            "name": "purplecabbage"
         },
         {
-            "name": "shazron",
-            "email": "shazron@gmail.com"
+            "name": "shazron"
         },
         {
-            "name": "stevegill",
-            "email": "stevengill97@gmail.com"
+            "name": "stevegill"
         }
     ],
     "name": "cordova-plugin-globalization",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/apache/cordova-plugin-globalization.git"
@@ -112,16 +110,6 @@
     "version": "1.0.6"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module cordova-plugin-globalization](#apidoc.module.cordova-plugin-globalization)
-
-
-
-# <a name="apidoc.module.cordova-plugin-globalization"></a>[module cordova-plugin-globalization](#apidoc.module.cordova-plugin-globalization)
 
 
 
